@@ -56,6 +56,9 @@ public class Main {
                     Tabuada.tabuada();
                     break;
 
+                case 10:
+                    JogoDaVelha.main();
+
                 case 0:
                     System.out.println("Saindo...");
                     System.exit(0); // Encerra o programa
